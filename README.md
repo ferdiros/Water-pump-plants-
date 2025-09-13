@@ -1,2 +1,2 @@
-# Qwater pump plants 
+# Water pump plants 🪴
 Raspberry pi Pico innaffia piante.
