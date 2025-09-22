@@ -1,5 +1,8 @@
 # 🌱 Water Pump Plants – Raspberry Pi Pico
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![Platform: Raspberry Pi Pico](https://img.shields.io/badge/Platform-Raspberry_Pi_Pico-blue.svg)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+
 Un progetto semplice ed efficace per mantenere le tue piante sempre innaffiate, anche quando non sei a casa.  
 Basato su **Raspberry Pi Pico**, può funzionare sia **con sensori di umidità del terreno** che **senza sensori**, grazie a una logica di temporizzazione.  
 Include anche un'interfaccia grafica con uno schermo TFT 1,8'' ST7735 per visualizzare lo stato del sistema.
