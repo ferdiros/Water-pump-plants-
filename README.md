@@ -2,6 +2,7 @@
 
 Un progetto semplice ed efficace per mantenere le tue piante sempre innaffiate, anche quando non sei a casa.  
 Basato su **Raspberry Pi Pico**, può funzionare sia **con sensori di umidità del terreno** che **senza sensori**, grazie a una logica di temporizzazione.
+Per rendere il tutto più complesso ma anche più divertente ho anche implementato un'interfaccia grafica con uno schermo TFT 1,8'' ST7735
 
 ---
 
@@ -12,7 +13,7 @@ Basato su **Raspberry Pi Pico**, può funzionare sia **con sensori di umidità d
 - Schemi elettrici inclusi:
   - ✔️ Con sensori di umidità
   - ✔️ Senza sensori
-
+  - ✔️ Con schermo TFT 1,8" ST7735
 ---
 
 ## 🧩 Componenti necessari
@@ -22,7 +23,8 @@ Basato su **Raspberry Pi Pico**, può funzionare sia **con sensori di umidità d
 - 4 × Sensori capacitivi di umidità del suolo  
 - 4 × Mini pompe ad acqua 5V  
 - Tubi per irrigazione  
-- 1 × Contenitore batterie  
+- 1 × Contenitore batterie
+- 1 x schermo TFT 1,8" ST7735 [ opzionale ]
 
 ---
 
