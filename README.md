@@ -9,6 +9,7 @@ Per rendere il tutto più complesso ma anche più divertente ho anche implementa
 ## 🚀 Funzionalità
 - Innaffiatura automatica ogni **8 ore** per **10 secondi** (modalità senza sensori).
 - Possibilità di abilitare/disabilitare manualmente tramite pulsante **on/off**.
+- Interfaccia a display, con diverse funzionalità.
 - Versione con **sensori di umidità capacitiva** per irrigazione più intelligente.
 - Schemi elettrici inclusi:
   - ✔️ Con sensori di umidità
@@ -50,7 +51,8 @@ Per rendere il tutto più complesso ma anche più divertente ho anche implementa
 ## 🛠️ Possibili miglioramenti
 - Aggiungere un’interfaccia web/app per controllare da remoto.  
 - Regolare la durata e la frequenza di irrigazione tramite parametri configurabili.  
-- Integrazione con sensori aggiuntivi (es. temperatura, luminosità).  
+- Integrazione con sensori aggiuntivi (es. temperatura, luminosità).
+- Implementare interfaccia a display per sensori. (es. catturare parametri sensori, quale sensore si è attivato)
 
 ---
 
